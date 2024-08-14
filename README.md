@@ -6,14 +6,7 @@
 
 
 ### Hi there, I am Görkem <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-👨🏻‍💻 Senior Data Scientist <br>
-
-<p align="center">
-<br>
-🙌 <br>
-I have been working in the field of Machine Learning & Deep Learning.
-Specifically, I am deeply interested in Natural Language Processing (NLP) and Conversational AI projects.
-</p>
+👨🏻‍💻 Software Developer <br>
   
 ## Connect with me 
 <p align="center">
